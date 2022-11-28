@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BashSupn Blog</title>
+    <title>BashSupn</title>
     <link>https://Putra-0.github.io/</link>
-    <description>Recent content on BashSupn Blog</description>
+    <description>Recent content on BashSupn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Nov 2022 10:06:58 +0700</lastBuildDate><atom:link href="https://Putra-0.github.io/index.xml" rel="self" type="application/rss+xml" />
