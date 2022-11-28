@@ -8,12 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Nov 2022 10:06:58 +0700</lastBuildDate><atom:link href="https://Putra-0.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Remote Openwrt</title>
-      <link>https://Putra-0.github.io/blogs/remote-openwrt/</link>
+      <title>Remote Openwrt dengan Port Forwarding</title>
+      <link>https://Putra-0.github.io/blogs/remote-openwrt-dengan-port-forwarding/</link>
       <pubDate>Mon, 28 Nov 2022 10:06:58 +0700</pubDate>
       
-      <guid>https://Putra-0.github.io/blogs/remote-openwrt/</guid>
-      <description></description>
+      <guid>https://Putra-0.github.io/blogs/remote-openwrt-dengan-port-forwarding/</guid>
+      <description>Port Forward adalah salah satu fitur dari router dimana fungsi ini akan membuka akses terhadap perangkat pada jaringan lokal untuk bisa diakses dari internet.
+Kali ini saya akan membagikan cara remot openwrt dengan port forwarding. tanpa menggunakan zerotier. Saya Asumsikan yang mengikuti tutorial ini menggunakan inject, baik menggunakan openclash, passwall, SSRplus atau tunnel lainnya. Yang mana server tunneling pasti memiliki ip publik. Untuk itu hanya dengan menggunakan port forward dengan tujuan ip lokal openwrt dapat di akses jarak jauh atau diluar jaringan.</description>
     </item>
     
     <item>
